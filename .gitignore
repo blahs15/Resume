@@ -1,4 +1,5 @@
 *.DS_Store
 ~$*
 Advice/*
-Samples/*
+Samples
+Companies
